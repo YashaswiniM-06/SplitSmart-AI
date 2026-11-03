@@ -1,0 +1,9 @@
+node_modules/
+client/dist/
+client/.vite/
+.env
+server/.env
+client/.env
+.vercel/
+.DS_Store
+npm-debug.log*
