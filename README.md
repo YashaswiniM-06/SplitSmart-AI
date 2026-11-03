@@ -42,12 +42,12 @@
 | Frontend | https://splitsmart-ai-client.vercel.app |
 | Backend API | https://splitsmart-ai-api.onrender.com |
 | Health Check | https://splitsmart-ai-api.onrender.com/api/health |
-| GitHub | https://github.com/vamshichethan/SplitSmart-AI-Intelligent-Expense-Splitting-Platform |
+| GitHub | https://github.com/YashaswiniM-06/SplitSmart-AI-Intelligent-Expense-Splitting-Platform |
 
 Demo login:
 
 ```text
-email: vamshi@example.com
+email: yashaswini@example.com
 password: password123
 ```
 
@@ -111,7 +111,7 @@ npm run dev
 Open the Vite client at `http://localhost:5173` and use the demo login:
 
 ```text
-email: vamshi@example.com
+email: yashaswini@example.com
 password: password123
 ```
 
@@ -178,7 +178,7 @@ Example item allocation:
 
 | Bill Item | Assigned To | Split Style |
 | --- | --- | --- |
-| 🍕 Pizza | Vamshi, Rahul | Shared equally |
+| 🍕 Pizza | Yashaswini, Rahul | Shared equally |
 | 🥤 Coke | Rahul | Rahul only |
 | 🍱 Veg Meals | Priya | Priya only |
 | 🧾 Service Charge | Everyone | Proportional |
@@ -213,7 +213,7 @@ This is powered by a **net-balance graph algorithm**:
 
 ```mermaid
 flowchart LR
-    A[Vamshi<br/>-500] -->|₹500| B[Rahul<br/>+200]
+    A[Yashaswini<br/>-500] -->|₹500| B[Rahul<br/>+200]
     B -->|₹300| C[Priya<br/>+300]
     C -->|₹200| A
 
